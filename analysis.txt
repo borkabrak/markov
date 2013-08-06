@@ -1,0 +1,390 @@
+{
+  "the": {
+    "second": 3,
+    "widening": 1,
+    "falcon": 1,
+    "falconer": 1,
+    "centre": 1,
+    "world": 1,
+    "blood": 1,
+    "ceremony": 1,
+    "best": 1,
+    "worst": 1,
+    "head": 1,
+    "sun": 1,
+    "indignant": 1,
+    "darkness": 1
+  },
+  "second": {
+    "coming": 3
+  },
+  "coming": {
+    "turning": 1,
+    "is": 1,
+    "hardly": 1
+  },
+  "turning": {
+    "and": 1,
+    "in": 1
+  },
+  "and": {
+    "turning": 1,
+    "everywhere": 1,
+    "the": 1,
+    "pitiless": 1,
+    "what": 1
+  },
+  "in": {
+    "the": 1
+  },
+  "widening": {
+    "gyre": 1
+  },
+  "gyre": {
+    "the": 1
+  },
+  "falcon": {
+    "cannot": 1
+  },
+  "cannot": {
+    "hear": 1,
+    "hold": 1
+  },
+  "hear": {
+    "the": 1
+  },
+  "falconer": {
+    "things": 1
+  },
+  "things": {
+    "fall": 1
+  },
+  "fall": {
+    "apart": 1
+  },
+  "apart": {
+    "the": 1
+  },
+  "centre": {
+    "cannot": 1
+  },
+  "hold": {
+    "mere": 1
+  },
+  "mere": {
+    "anarchy": 1
+  },
+  "anarchy": {
+    "is": 1
+  },
+  "is": {
+    "loosed": 2,
+    "drowned": 1,
+    "at": 2,
+    "moving": 1
+  },
+  "loosed": {
+    "upon": 1,
+    "and": 1
+  },
+  "upon": {
+    "the": 1
+  },
+  "world": {
+    "the": 1
+  },
+  "blood": {
+    "dimmed": 1
+  },
+  "dimmed": {
+    "tide": 1
+  },
+  "tide": {
+    "is": 1
+  },
+  "everywhere": {
+    "the": 1
+  },
+  "ceremony": {
+    "of": 1
+  },
+  "of": {
+    "innocence": 1,
+    "passionate": 1,
+    "spiritus": 1,
+    "desert": 1,
+    "a": 1,
+    "the": 1,
+    "stony": 1
+  },
+  "innocence": {
+    "is": 1
+  },
+  "drowned": {
+    "the": 1
+  },
+  "best": {
+    "lack": 1
+  },
+  "lack": {
+    "all": 1
+  },
+  "all": {
+    "conviction": 1,
+    "about": 1
+  },
+  "conviction": {
+    "while": 1
+  },
+  "while": {
+    "the": 1,
+    "all": 1
+  },
+  "worst": {
+    "are": 1
+  },
+  "are": {
+    "full": 1,
+    "those": 1
+  },
+  "full": {
+    "of": 1
+  },
+  "passionate": {
+    "intensity": 1
+  },
+  "intensity": {
+    "surely": 1
+  },
+  "surely": {
+    "some": 1,
+    "the": 1
+  },
+  "some": {
+    "revelation": 1
+  },
+  "revelation": {
+    "is": 1
+  },
+  "at": {
+    "hand": 2,
+    "last": 1
+  },
+  "hand": {
+    "surely": 1,
+    "the": 1
+  },
+  "hardly": {
+    "are": 1
+  },
+  "those": {
+    "words": 1
+  },
+  "words": {
+    "out": 1
+  },
+  "out": {
+    "when": 1,
+    "of": 1
+  },
+  "when": {
+    "a": 1
+  },
+  "a": {
+    "vast": 1,
+    "waste": 1,
+    "shape": 1,
+    "man": 1,
+    "gaze": 1,
+    "rocking": 1
+  },
+  "vast": {
+    "image": 1
+  },
+  "image": {
+    "out": 1
+  },
+  "spiritus": {
+    "mundi": 1
+  },
+  "mundi": {
+    "troubles": 1
+  },
+  "troubles": {
+    "my": 1
+  },
+  "my": {
+    "sight": 1
+  },
+  "sight": {
+    "a": 1
+  },
+  "waste": {
+    "of": 1
+  },
+  "desert": {
+    "sand": 1,
+    "birds": 1
+  },
+  "sand": {
+    "a": 1
+  },
+  "shape": {
+    "with": 1
+  },
+  "with": {
+    "lion": 1
+  },
+  "lion": {
+    "body": 1
+  },
+  "body": {
+    "and": 1
+  },
+  "head": {
+    "of": 1
+  },
+  "man": {
+    "a": 1
+  },
+  "gaze": {
+    "blank": 1
+  },
+  "blank": {
+    "and": 1
+  },
+  "pitiless": {
+    "as": 1
+  },
+  "as": {
+    "the": 1
+  },
+  "sun": {
+    "is": 1
+  },
+  "moving": {
+    "its": 1
+  },
+  "its": {
+    "slow": 1,
+    "hour": 1
+  },
+  "slow": {
+    "thighs": 1
+  },
+  "thighs": {
+    "while": 1
+  },
+  "about": {
+    "it": 1
+  },
+  "it": {
+    "wind": 1
+  },
+  "wind": {
+    "shadows": 1
+  },
+  "shadows": {
+    "of": 1
+  },
+  "indignant": {
+    "desert": 1
+  },
+  "birds": {
+    "the": 1
+  },
+  "darkness": {
+    "drops": 1
+  },
+  "drops": {
+    "again": 1
+  },
+  "again": {
+    "but": 1
+  },
+  "but": {
+    "now": 1
+  },
+  "now": {
+    "i": 1
+  },
+  "i": {
+    "know": 1
+  },
+  "know": {
+    "that": 1
+  },
+  "that": {
+    "twenty": 1
+  },
+  "twenty": {
+    "centuries": 1
+  },
+  "centuries": {
+    "of": 1
+  },
+  "stony": {
+    "sleep": 1
+  },
+  "sleep": {
+    "were": 1
+  },
+  "were": {
+    "vexed": 1
+  },
+  "vexed": {
+    "to": 1
+  },
+  "to": {
+    "nightmare": 1,
+    "be": 1
+  },
+  "nightmare": {
+    "by": 1
+  },
+  "by": {
+    "a": 1
+  },
+  "rocking": {
+    "cradle": 1
+  },
+  "cradle": {
+    "and": 1
+  },
+  "what": {
+    "rough": 1
+  },
+  "rough": {
+    "beast": 1
+  },
+  "beast": {
+    "its": 1
+  },
+  "hour": {
+    "come": 1
+  },
+  "come": {
+    "round": 1
+  },
+  "round": {
+    "at": 1
+  },
+  "last": {
+    "slouches": 1
+  },
+  "slouches": {
+    "towards": 1
+  },
+  "towards": {
+    "bethlehem": 1
+  },
+  "bethlehem": {
+    "to": 1
+  },
+  "be": {
+    "born": 1
+  },
+  "born": {
+    "": 1
+  }
+}
