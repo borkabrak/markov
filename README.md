@@ -20,9 +20,9 @@ HOW TO USE:
 * Run analyze.rb on the corpus plain text file.  This generates a file called
   'analysis.txt':
 
-    analyze.rb < filename >
+    `analyze.rb < filename >`
 
 * Run generate.rb to generate a string.  The length is random, but should
   average around five words.
 
-    generate.rb
+    `generate.rb`
